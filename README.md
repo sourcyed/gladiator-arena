@@ -1,6 +1,4 @@
-# gladiator arena
- 
-# Project Title
+# Gladiator Arena
 
 Simple overview of use/purpose.
 
