@@ -1,0 +1,2 @@
+1 - Sometimes the program crashes after a game ends.
+2 - Sometimes some gladiators become invisible I guess?

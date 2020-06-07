@@ -1,0 +1,8 @@
+1 - Add movement to the gladiators to move to the closest opponent. 
+        Done but still has some bugs.
+2 - Make the gladiator move through the fastest route.
+        Done but still has some bugs.
+3 - Make the gladiator attack only when the opponent is so close.
+        Done but still has some bugs.
+4 - Add the possibility for a gladiator to run away if his hp is low.
+5 - Add the possibility for a gladiator to escape from borders when his hp is low.
