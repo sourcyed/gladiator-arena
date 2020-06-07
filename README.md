@@ -1,7 +1,5 @@
 # Gladiator Arena
 
-Simple overview of use/purpose.
-
 ## Description
 
 A simple command line gladiator arena simulation. Gladiators with random stats fights to be the last man standing in the arena.
