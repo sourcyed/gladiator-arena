@@ -6,7 +6,7 @@ A simple command line gladiator arena simulation. Gladiators with random stats f
 
 ## Getting Started
 
-### Executing program
+### Executing the program
 
 * To run the program run ```main.py```
 
